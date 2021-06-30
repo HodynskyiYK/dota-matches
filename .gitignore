@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# product information
+/src/information/api_key.ts
+/src/information/referral_link.ts
+
 # testing
 /coverage
 
